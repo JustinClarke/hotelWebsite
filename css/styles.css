@@ -5,8 +5,6 @@ body{
 h1, h2, h3{
   font-family: "Montserrat";
 }
-h2{
-}
 p{
   color: #8f8f8f;
 }
@@ -20,7 +18,7 @@ p{
 .section-heading{
   font-weight: bold;
   font-size : 3.5rem;
-  line-height: :1.5;
+  line-height: 1.5;
 }
 .container-fluid{
   padding: 7% 15%;
@@ -84,9 +82,6 @@ p{
 }
 .icon:hover{
   color: #303030;
-}
-
-.feature-title{
 }
 
 /* Testimonial section */
